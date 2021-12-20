@@ -17,6 +17,7 @@ public class StudenteNuovo {
 		this.nome=nome;
 		this.cognome=cognome;
 		this.setEta(eta);
+		System.out.println(eta);
 	}
 
 	public StudenteNuovo() {
