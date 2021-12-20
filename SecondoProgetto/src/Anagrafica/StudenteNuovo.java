@@ -6,6 +6,7 @@ public class StudenteNuovo {
 	private String cognome;
 	private int eta;
 	//int a;
+	
 	int ciao;
 
 	
