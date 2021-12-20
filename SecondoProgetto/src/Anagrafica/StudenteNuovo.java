@@ -5,6 +5,7 @@ public class StudenteNuovo {
 	private String nome;
 	private String cognome;
 	private int eta;
+	//int a;
 
 	
 
