@@ -1,11 +1,12 @@
 package Anagrafica;
 
 public class StudenteNuovo {
-	final int MAGGIORE_ETA=18; //final si usa per dire che questa non si può più modificare. è una costante
+	final int MAGGIORE_ETA=18; //final si usa per dire che questa non si puÃ² piÃ¹ modificare. Ã¨ una costante
 	private String nome;
 	private String cognome;
 	private int eta;
 	//int a;
+	int ciao;
 
 	
 
